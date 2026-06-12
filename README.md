@@ -1,5 +1,4 @@
 # EpidermVision-Skin_Disease_detection
-# Title: EpidermVision
 ## A Skin Disease Detection Project Using Deep Learning
  
 ## Project Developers:
